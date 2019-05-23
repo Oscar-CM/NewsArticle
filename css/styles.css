@@ -1,0 +1,12 @@
+.intro{
+  font-family: sans-serif;
+  color: blue;
+}
+.body{
+  font-family: cursive;
+  font-size: 14;
+  color: red;
+}
+h1.intro{
+  color:purple;
+}
